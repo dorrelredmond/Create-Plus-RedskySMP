@@ -1,0 +1,13 @@
+name = "Weaker Spiderwebs"
+filename = "weakerspiderwebs-1.18.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1196fb45917e7be4031706af34cf714b1b759861"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4303796
+project-id = 345293

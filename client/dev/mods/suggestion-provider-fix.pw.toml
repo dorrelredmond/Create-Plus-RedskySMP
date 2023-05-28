@@ -1,0 +1,13 @@
+name = "Suggestion Provider Fix"
+filename = "SuggestionProviderFix-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a347163d36612e0e4ac1dbdf8051ab5b5487907"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3623382
+project-id = 469647

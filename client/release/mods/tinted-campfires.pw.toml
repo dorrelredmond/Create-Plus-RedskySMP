@@ -1,0 +1,13 @@
+name = "Tinted Campfires"
+filename = "Tinted Campfires-1.18.2-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16e1a732d8b276fae31deecdd8ae768fcc158df8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4314794
+project-id = 479516

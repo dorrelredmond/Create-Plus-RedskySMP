@@ -1,0 +1,13 @@
+name = "Crying Ghasts"
+filename = "cryingghasts-1.18.2-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a074d61216d35fa0e19bf73b3948393942c3fa3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4397664
+project-id = 344360

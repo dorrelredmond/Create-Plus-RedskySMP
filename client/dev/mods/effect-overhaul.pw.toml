@@ -1,0 +1,13 @@
+name = "Effect Overhaul"
+filename = "Effect_Overhaul-22.08.08-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b23bb6f36c244f7fdd4fa5f04e8f2e332b42a2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924405
+project-id = 586157

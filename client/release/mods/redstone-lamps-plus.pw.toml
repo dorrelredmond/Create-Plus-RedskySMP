@@ -1,0 +1,13 @@
+name = "Redstone Lamps Plus"
+filename = "rlp-1.4.0-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96d93270f6b489523d115cb2b7db9387f2786e71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4314685
+project-id = 509266

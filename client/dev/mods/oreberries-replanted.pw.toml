@@ -1,0 +1,13 @@
+name = "Oreberries Replanted"
+filename = "OreBerries-Replanted-1.18.2-0.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42cd4100c7fa338562e78421534905049b87d5b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4105785
+project-id = 454062

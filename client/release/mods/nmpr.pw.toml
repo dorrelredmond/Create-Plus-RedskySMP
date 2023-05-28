@@ -1,0 +1,13 @@
+name = "No More Poison with Regeneration"
+filename = "NMPR-1.18-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b79c0f4d78dc711dd55897db0a3936bb95ebf52e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3545759
+project-id = 317853

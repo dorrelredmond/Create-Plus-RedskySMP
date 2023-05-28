@@ -1,0 +1,13 @@
+name = "FiveHead"
+filename = "FiveHead-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ead2b9ea7f22f9bc6dc7e54e9c5bd1620665cf5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4216401
+project-id = 625228

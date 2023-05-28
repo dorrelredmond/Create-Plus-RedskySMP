@@ -1,0 +1,13 @@
+name = "Heads"
+filename = "Heads-1.18.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a3b87b9565107fd6512681a4b308ee0f5d149c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3995320
+project-id = 574942

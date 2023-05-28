@@ -1,0 +1,13 @@
+name = "PBOSB - Projectiles Bounce Off Slime Blocks"
+filename = "pbosb-1.18.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9730f7bf2ec06d1b80ef9ef6dffee70f5681b85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876613
+project-id = 643099

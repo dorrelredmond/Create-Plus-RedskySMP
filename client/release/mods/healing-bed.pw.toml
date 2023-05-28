@@ -1,0 +1,13 @@
+name = "Healing Bed"
+filename = "Healing Bed 1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0099e5204a0217cbac1c78cc5f7c6c166fea2df8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3741185
+project-id = 538686

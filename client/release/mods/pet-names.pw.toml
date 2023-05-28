@@ -1,0 +1,13 @@
+name = "Pet Names"
+filename = "petnames-1.18.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c34a5b328f96eb520621ea33772d442ee4c1e4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4323712
+project-id = 344884

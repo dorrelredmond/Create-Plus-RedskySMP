@@ -1,0 +1,202 @@
+{
+  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
+  "_schemaVersion": 1,
+  "_lastMCVersionId": 758,
+  "generalSettings": {
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "showTime": true,
+    "detectBiomeData": true,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "1036351790251262063",
+    "defaultIcon": "create-plus",
+    "enableJoinRequests": true,
+    "partyPrivacyLevel": 1,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": true,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "the-overworld",
+    "biomeData": {
+      "frozen_ocean": {
+        "textOverride": "Sliding on ice"
+      },
+      "frozen_river": {
+        "textOverride": "Avoiding thin ice"
+      },
+      "default": {
+        "textOverride": "Exploring {biome.name}"
+      },
+      "dripstone_caves": {
+        "textOverride": "Carefully walking around dripstone"
+      },
+      "snowy_plains": {
+        "textOverride": "Trudging through snow"
+      },
+      "ice_spikes": {
+        "textOverride": "Climbing slippery ice spikes"
+      },
+      "lush_caves": {
+        "textOverride": "Jumping across dripleaves"
+      },
+      "snowy_slopes": {
+        "textOverride": "Avoiding powder snow"
+      },
+      "jungle": {
+        "textOverride": "Swinging on jungle vines"
+      },
+      "frozen_peaks": {
+        "textOverride": "Climbing an icy frozen peak"
+      },
+      "swamp": {
+        "textOverride": "Jumping across lily pads"
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "create-plus",
+    "dimensionData": {
+      "default": {
+        "textOverride": "In the {dimension.name}"
+      },
+      "overworld_caves": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-overworld"
+      },
+      "the_end": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-end"
+      },
+      "overworld": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-overworld"
+      },
+      "the_nether": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-nether"
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "the-overworld",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "default": {
+        "textOverride": "Playing on {server.motd.raw}"
+      }
+    }
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "In the Main Menu"
+    },
+    "loadingData": {
+      "textOverride": "Loading..."
+    },
+    "lanData": {
+      "textOverride": "Playing on a LAN Server"
+    },
+    "singleplayerData": {
+      "textOverride": "Playing Singleplayer"
+    }
+  },
+  "advancedSettings": {
+    "enableCommands": true,
+    "enablePerGui": false,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "renderTooltips": true,
+    "formatWords": true,
+    "debugMode": true,
+    "verboseMode": true,
+    "refreshRate": 2,
+    "roundSize": 3,
+    "includeExtraGuiClasses": false,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "default": {
+          "textOverride": "In {screen.name}"
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}"
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}"
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://crafatar.com/avatars/%1$s"
+  },
+  "accessibilitySettings": {
+    "tooltipBackgroundColor": "0xF0100010",
+    "tooltipBorderColor": "0x505000FF",
+    "guiBackgroundColor": "minecraft:textures/gui/options_background.png",
+    "buttonBackgroundColor": "minecraft:textures/gui/widgets.png",
+    "languageId": "en_us",
+    "showBackgroundAsDark": true,
+    "stripTranslationColors": false,
+    "showLoggingInChat": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": -1
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": false,
+      "details": "{getOrDefault(dimension.message, menu.message)}",
+      "gameState": "{server.message}",
+      "largeImageKey": "create-plus",
+      "largeImageText": "{general.version}",
+      "smallImageKey": "{dimension.icon}",
+      "smallImageText": "{biome.message}",
+      "buttons": {
+        "button_1": {
+          "label": "Get the modpack!",
+          "url": "https://curseforge.com/minecraft/modpacks/create-mod-plus"
+        },
+        "default": {
+          "label": "Example Text",
+          "url": "https://google.com"
+        }
+      }
+    },
+    "dynamicIcons": {
+      "Create+": "https://imgur.com/a/zOfXm4B",
+      "StormDragon_64": "https://crafatar.com/avatars/badc85e3fe9342d3a41395b4b4ff878a",
+      "default": "https://via.placeholder.com/256.png",
+      "DorrelRedmond": "https://crafatar.com/avatars/2f3d875c494f4ce38e341f47a143343e",
+      "redsky.minecraft.best": "https://api.mcsrvstat.us/icon/redsky.minecraft.best"
+    },
+    "dynamicVariables": {
+      "default": "Example Text",
+      "mods": "{general.mods} Mod(s)",
+      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "players": "{server.players.current} / {server.players.max} Players",
+      "player_info_in": "({custom.player_info_health})",
+      "player_info_items": "Items: {item.main_hand.message}",
+      "player_info_out": "As {player.name}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
+      "pack": "{pack.name}"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Simple Kiln"
+filename = "simplekiln-1.18.2-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0325a3d2b75464009d7c72f7e05563081b911b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3695313
+project-id = 582376

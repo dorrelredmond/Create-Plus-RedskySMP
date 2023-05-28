@@ -1,0 +1,13 @@
+name = "RedskySMP"
+author = "DorrelRedmond"
+version = "1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d93fdef98e3e5772655798127a9ee00da532dd676974d4fb80286872212582d3"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"

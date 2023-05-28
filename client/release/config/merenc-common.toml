@@ -1,0 +1,10 @@
+
+[general]
+	protection = false
+	bow = true
+	crossbow = true
+	weapon = false
+	trident = false
+	boots = true
+	silkTouch = true
+

@@ -1,0 +1,13 @@
+name = "Useful Slime"
+filename = "usefulslime-1.4-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46d64dc3fd181e69378ecca989a9bef853c3ec17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3722531
+project-id = 417702

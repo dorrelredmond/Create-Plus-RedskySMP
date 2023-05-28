@@ -1,0 +1,13 @@
+name = "Raw Block Smelting"
+filename = "Raw Block Smelting 1.0.0 - 1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c62f1201d6292a8676e79cf27989005ca592c03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3717558
+project-id = 599350

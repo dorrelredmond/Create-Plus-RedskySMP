@@ -1,0 +1,13 @@
+name = "Totem Overhaul"
+filename = "Totem_Overhaul-22.08.08-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5865cad9ce33685eb1c9ff1f1da5553d5d7736f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924413
+project-id = 584964

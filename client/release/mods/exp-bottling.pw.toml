@@ -1,0 +1,13 @@
+name = "EXP Bottling"
+filename = "exp_bottling-1.18.2-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35cb7a7a375b37e6a934290e4cc4a09554164d59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683109
+project-id = 335296

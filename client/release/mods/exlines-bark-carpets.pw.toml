@@ -1,0 +1,13 @@
+name = "Exline's Bark Carpets"
+filename = "barkcarpets-forge-1.18.2-v1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f4258b133ee8ecaaf88ff55335e9db25037ec05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3776832
+project-id = 527296
