@@ -1,6 +1,12 @@
+# CreatePlus RedskySMP Changelog
+This is the changelog for the Forge modpack [Create Plus RedskySMP](https://legacy.curseforge.com/minecraft/modpacks/create-redskysmp).
+
 ## 1.2-beta.1
+
 **Added:**
+
 Tech:
+
 - Alchemistry
 - Valkyrien Skies
 - Eureka! Airships!
@@ -18,17 +24,24 @@ Tech:
 - ExtraStorage
 - CC: Tweaked
 - Advanced Peripherals
+
 Dimensions:
+
 - Ad Astra
 - Blue Skies
 - Mysticraft Dimensions
 - The Twilight Forest
+
 Decorations:
+
 - Re-Chiseled
 
 ## 1.1 - Magic, Decorations, and QOL Update
+
 **Added**
+
 Magic:
+
 - Ars Creo
 - Ars Elemental
 - Ars Instrumentum
@@ -39,7 +52,9 @@ Magic:
 - Hexerei
 - Hex Casting
 - Hexal
+
 QOL:
+
 - Respawning Shulkers
 - Lexicon
 - Eccentric Tome
@@ -51,17 +66,23 @@ QOL:
 - Followers Teleport Too
 - Bad Wither No Cookie - Reloaded
 - Construction Wand
+
 Misc:
+
 - Useful Slime
 - Camera Mod
 - FTB Ranks
 - Config Menus for Forge
 - Goblin Traders
+
 Optimization:
+
 - FastWorkbench
 - FastLoad
 - Lightspeed
+
 Decorations:
+
 - Create Deco
 - Even Better Amethyst
 - Diagonal Fences
@@ -72,13 +93,16 @@ Decorations:
 - Kawaii Dishes
 
 **Removed:**
+
 - Configured
 - Craftpresence
 
 **Replaced:**
+
 - Fluidloggged - The current Fluidlogged mod is now deprecated. This is the official current fork
 
 **Upgraded:**
+
 - Architectury API (Fabric/Forge) - Upgrade to version 4.11.93
 - Balm (Forge Edition) - Upgrade to version 3.2.6
 - Collective - Upgrade to version 6.53
@@ -97,26 +121,28 @@ Decorations:
 - Simple Voice Chat - upgrade to version 2.4.8
 
 ## 1.0.1 - Client Side Update
+
 **Added:**
-	- Jade #client-and-server 
-	- Jade Addons #client-and-server 
-	- FerriteCore #client-and-server 
-	- Just Enough Resources 
-	- Just Enough Professions 
-	- Chat Heads  
-	- Pick Up Notifier 
-	- Just Enough Effect Descriptions (JEED) 
-	- Better Mods Button 
-	- Catalogue 
-	- Better Statistics Screen 
-	- Falling Leaves 
-	- Notes 
-	- Extreme Sound Muffler 
-	- Inventory Essentials 
-	- ItemZoom 
-	- BetterF3 
-	- Entity Collision FPS Fix 
-	- Neko's Enchanted Books 
-	- My Server is Compatible
-	- Entity Culling
-	- CullLessLeaves - Reforged
+
+- Jade #client-and-server
+- Jade Addons #client-and-server
+- FerriteCore #client-and-server
+- Just Enough Resources
+- Just Enough Professions
+- Chat Heads
+- Pick Up Notifier
+- Just Enough Effect Descriptions (JEED)
+- Better Mods Button
+- Catalogue
+- Better Statistics Screen
+- Falling Leaves
+- Notes
+- Extreme Sound Muffler
+- Inventory Essentials
+- ItemZoom
+- BetterF3
+- Entity Collision FPS Fix
+- Neko's Enchanted Books
+- My Server is Compatible
+- Entity Culling
+- CullLessLeaves - Reforged
