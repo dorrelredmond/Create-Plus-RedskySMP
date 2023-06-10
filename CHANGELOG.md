@@ -58,6 +58,10 @@ Misc:
 Replaced:
 - Swapped Default Options for DefaultSettings
 
+Removed:
+- FiveHead
+- Recall Potion
+
 ## 1.1 - Magic, Decorations, and QOL Update
 
 **Added**

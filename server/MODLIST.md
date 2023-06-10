@@ -1,0 +1,316 @@
+- Abnormals Delight
+- Additional Banners
+- Additional Lanterns
+- Advanced Shulkerboxes
+- Advanced Peripherals
+- Advancement Frames
+- Alchemistry
+- Allurement
+- Ancient Manuscripts
+- Another Furniture
+- Anvil Restoration
+- Aquatic Torches
+- Architectury API (Fabric/Forge)
+- Armor Poser
+- Ars Creo
+- Ars Elemental
+- Ars Instrumentum
+- Ars Nouveau
+- Ars Omega
+- Ars Scalaes
+- Art of Forging: A Tetra Addon
+- AttributeFix
+- AutoRegLib
+- Axes Are Weapons (Fabric/Forge)
+- Balm (Forge Edition)
+- Bedspreads (Fabric/Forge/Quilt)
+- Bee Fix
+- Berry Good
+- Better Bundles
+- Better Conduit Placement
+- Better Safe Bed
+- Beyond Earth
+- Bigger Sponge Absorption Radius
+- Block Runner [Forge & Fabric]
+- Blood Magic
+- Blue Skies
+- Blueprint
+- Boatload
+- Bookshelf
+- Bonsai Trees 3
+- Botania
+- Buzzier Bees
+- Caelus API (Forge)
+- Camera Mod
+- Canary
+- Capybara [Forge]
+- Carry On
+- Carry the Nametag
+- Chalk
+- Charm of Undying (Fabric/Forge/Quilt)
+- Charms
+- Chat Colors
+- Chimes
+- Chunky (Forge)
+- Citadel
+- Clickable advancements[Forge/Fabric]
+- Cloth Config API (Fabric/Forge)
+- Clumps
+- Cluttered
+- Cobbled Paths
+- Collective
+- Colored Bricks Mod
+- Comforts (Fabric/Forge/Quilt)
+- Compact Help Command
+- Forge Config Screens [Forge & Fabric]
+- CC: Tweaked
+- CC:C Bridge
+- Connectible Chains [FORGE]
+- Construction Wand
+- Copper Overhaul
+- Corail Woodcutter
+- Corn Delight
+- Corpse
+- Cosmetic Armor Reworked
+- Crafting Tweaks
+- Create: Alloyed
+- Create Big Cannons
+- Create Central Kitchen
+- Create Chunkloading
+- Create Compact Exp
+- Create Confectionery
+- Create: Crystal Clear
+- Create Deco
+- Create Enchantment Industry
+- Create: Extended Cogwheels
+- Create: Extended Flywheels
+- Create: Factory
+- Create Jetpack
+- Create: Molten Vents
+- Create: Mounted Storages
+- Create: Steam 'n' Rails
+- Create
+- Create Crafts & Additions
+- Creeper Firework
+- Crying Ghasts
+- Crying Portals
+- Curios API (Forge)
+- Curious Armor Stands
+- Customizable Elytra
+- Dangerous Stone Cutter [Forge/Fabric]
+- Dash
+- Decoration Delight: Refurbished
+- Delightful
+- Despawning Eggs Hatch
+- Diagonal Fences
+- Domestication Innovation
+- Dramatic Doors
+- Dragon Mounts: Legacy
+- Doggy Talents
+- Dyeable Fishing Lines (Forge)
+- Easier Powdered Snow [Forge]
+- Easy Villagers
+- Eccentric Tome
+- Ecologics
+- Effect Overhaul
+- Elytra Bombing [Forge]
+- Elytra Slot (Fabric/Forge/Quilt)
+- Emblems [Forge & Fabric]
+- Enchanting Infuser [Forge & Fabric]
+- End's Delight
+- Enhanced Mushrooms
+- Eureka! Airships!
+- Eureka! Create Airships!
+- Eureka! Create Airships! (Datapack)
+- Even Better Amethyst [Forge]
+- Every Compat (Wood Good)
+- Exline's Bark Carpets
+- Extra Disks
+- ExtraStorage
+- EXP Bottling
+- Extended Bone Meal
+- Extract Poison
+- Farmer's Delight
+- Farmer's Respite
+- FastFurnace
+- FastSuite
+- FastWorkbench
+- Feature NBT Deadlock Be Gone
+- FerriteCore (Forge)
+- Festive Delight
+- FindMe
+- Fluidlogged (Forge)  [DEPRECATED]
+- Flywheel
+- Followers Teleport Too
+- Forgiving Void
+- Friends&Foes (Forge)
+- FTB Essentials (Forge)
+- FTB Library (Forge)
+- FTB Ranks (Forge)
+- Full Turtle Armor
+- GeckoLib
+- Goat Horns & Copper Horns
+- Goblin Traders
+- Golden Hopper
+- Grass Seeds
+- Grindstone Sharper Tools
+- Heads
+- Healing Bed
+- Hexal
+- Hex Casting
+- Hexerei
+- Hourglass
+- Iron Chests
+- Just Enough Items (JEI)
+- Joy of Painting
+- Just Player Heads
+- Kawaii Dishes
+- Keep My Soil Tilled
+- Keep Head Names (Fabric/Forge)
+- Kiwi 🥝 (Forge)
+- Kotlin for Forge
+- Storage Labels
+- Leap
+- Leathered Boots
+- Let Me Despawn
+- Lexicon
+- Little Logistics
+- Little Contraptions
+- Login Protection[Forge/Fabric]
+- Lootr (Forge)
+- Macaw's Paths and Pavings
+- Magnum Torch
+- Mannequins
+- Measurements
+- Merge Enchantments [Fabric/Quilt & Forge]
+- Miner's Delight +
+- Mo' Villager (Redstone + Nether Traders)
+- Mooshroom Tweaks
+- More Dragon Eggs
+- More Vanilla Potions [FORGE&FABRIC]
+- More Wandering Trades
+- Music Maker Mod
+- mutil
+- Mysterious Mountain Lib
+- Mysticraft Dimensions
+- Mystical Agriculture
+- Mystical Aggraditions
+- Mystical Customization
+- Nature's Compass
+- Neapolitan
+- NetherPortalFix
+- Nether's Delight
+- Nether's Exoticism
+- Nether Gold Veins [FORGE]
+- No More Poison with Regeneration
+- No Additional Repair Cost - Anvil
+- Nock Enough Arrows
+- No Time Out No More
+- Nyf's Quivers
+- Ok Zoomer Forge
+- Open Parties and Claims
+- Opulence
+- Oreberries Replanted
+- Ore Tree: Reborn
+- Omnipotent Card
+- Packet Size Doubler (Forge)
+- Patchouli
+- PAUCAL
+- Paxi (Forge)
+- PBOSB - Projectiles Bounce Off Slime Blocks
+- Pet Names
+- Banded Torches
+- Placebo
+- Pluto
+- Pollen
+- Polymorph (Forge)
+- Psi
+- Puzzles Lib [Forge & Fabric]
+- Pyrotastic 🎆
+- Quark
+- Random Shulker Colours
+- Randomium Ore
+- Rare Ice (Forge/Fabric)
+- Raw Block Smelting
+- Reborn Storage
+- Re-Chiseled
+- Redstone Lamps Plus
+- Refined Storage
+- Refined Storage: Requestify
+- Refined Storage Addons
+- Respawning Shulkers
+- Responsive Shields
+- RSInfinityBooster
+- Saturn
+- Scaffolding Drops Nearby
+- Moonlight Lib
+- Server Tab Info
+- Shiny Horses Forge - Enchantable Horse Armor
+- Shulker Enchantments (Forge)
+- Shutup Experimental Settings!
+- Sign Button
+- Simple Kiln
+- Simple Planes (Forge)
+- Simple Shops
+- Simple Voice Chat
+- Sit
+- Create Slice & Dice
+- Small Ships [Fabric & Forge]
+- Smarter Farmers (farmers replant)
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
+- Snow! Real Magic! ⛄ (Forge)
+- Snowballs Freeze Mobs
+- Some Assembly Required
+- Sooty Chimneys
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Speedy Hoppers
+- StackablePotions [Forge]
+- Starlight (Forge)
+- Storage Drawers
+- Suggestion Provider Fix
+- SuperMartijn642's Core Lib
+- Supplementaries
+- SwingThroughGrass
+- Tarot Cards
+- TerraBlender (Forge)
+- Tetra
+- The Wild Backport
+- Time in a bottle standalone
+- Tinted Campfires
+- Too Fast
+- Too Many Glyphs
+- Torch Slabs Mod
+- Totem Overhaul
+- Trample No More
+- TrashSlot
+- Tree Bark + [FORGE]
+- Tree Harvester
+- The Twilight Forest
+- Untitled Duck Mod (Forge)
+- Uppers
+- Universal Grid
+- Useful Slime
+- Valkyrien Skies
+- Valued XP
+- Villagers Drop Emeralds on Death
+- NoCube's Villagers Sell Animals
+- Visual Workbench [Forge & Fabric]
+- Wall-Jump
+- Waterlogged Redstone
+- Waystones
+- Weaker Spiderwebs
+- Weapon Throw
+- When Dungeons Arise
+- Xaero's Minimap
+- Xaero's World Map
+- YUNG's API (Forge)
+- YUNG's Better Desert Temples (Forge)
+- YUNG's Better Dungeons (Forge)
+- YUNG's Better Mineshafts (Forge)
+- YUNG's Better Ocean Monuments (Forge)
+- YUNG's Better Strongholds (Forge)
+- YUNG's Better Witch Huts (Forge)
+- YUNG's Bridges (Forge)
+- YUNG's Extras (Forge)

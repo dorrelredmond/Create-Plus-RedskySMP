@@ -747,11 +747,6 @@ hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
-metafile = true
-
-[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "e8be6fcf9b34d21aff505e35901fc1665dd22978416cde9e4eeded9d241dad34"
 metafile = true
@@ -809,11 +804,6 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
-metafile = true
-
-[[files]]
-file = "mods/fivehead.pw.toml"
-hash = "be38a992097a1eb62b12428d4ce97e3b2813fed15f63d702285e5e046354857d"
 metafile = true
 
 [[files]]
@@ -1379,11 +1369,6 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
-metafile = true
-
-[[files]]
-file = "mods/recall-potion.pw.toml"
-hash = "b81c2bf8ef859cc070fec3ef4eb0b649f55908eee6bf5b82c853b6d42677d7cd"
 metafile = true
 
 [[files]]
