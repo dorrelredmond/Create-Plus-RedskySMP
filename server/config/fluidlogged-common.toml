@@ -1,6 +1,0 @@
-#By default, this mod will work with all waterloggable blocks. However, some mods add these blocks in a way that will cause a crash. 
-# If compatibility mode is true, this mod will only apply to vanilla waterloggable block types(but will still work on modded blocks of those types).
-compatibilityMode = false
-#Adds fluids to the list. Ex: ["minecraft:lava", "create:honey"]
-fluids = ["minecraft:lava"]
-
