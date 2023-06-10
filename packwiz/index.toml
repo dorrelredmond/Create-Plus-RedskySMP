@@ -1005,14 +1005,6 @@ file = "config/craftingtweaks-common.toml"
 hash = "f3d96ea9e3d8c2ad6d828c7b56cf7b9ac637d3c540cef8013fe623538eec8747"
 
 [[files]]
-file = "config/craftpresence.json"
-hash = "0cba6144c1cea5a7fdb7144a149f947d44baedc5d2ca3033a7387aa98ff57f96"
-
-[[files]]
-file = "config/create-client-1.toml.bak"
-hash = "0e540b864f08e8d149ae8223bc35eb369bd3fa6d7fcc842cc1778e1fe4c05cf4"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "eaa6a70baee42d0c714595f52d3c2a1800cdf53c875f8676235e2f180693ffe0"
 
@@ -1025,20 +1017,12 @@ file = "config/create_central_kitchen-common.toml"
 hash = "f0b122ec40e38fef602cfd8ce5bc0a3a6336e65060b1a8a7c825cdf5f9cc01a2"
 
 [[files]]
-file = "config/create_jetpack-client-1.toml.bak"
-hash = "2c9992e7dca1ad80dc2a5677b240c4e4c8d9490d9b5cdb86b40dc0909b0f0e04"
-
-[[files]]
 file = "config/create_jetpack-client.toml"
 hash = "2c9992e7dca1ad80dc2a5677b240c4e4c8d9490d9b5cdb86b40dc0909b0f0e04"
 
 [[files]]
 file = "config/create_jetpack-common.toml"
 hash = "b212de2251bf5ad5f6543bea72723e9950e34bb82cc60671cede827c88265fbf"
-
-[[files]]
-file = "config/createaddition-common-1.toml.bak"
-hash = "d72b0be72ffdc43e643df46b62380fcfdbd5b35b40cdbf80904c0a3ef82294f8"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -1059,14 +1043,6 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 [[files]]
 file = "config/createdeco-common.toml"
 hash = "0d054c60f6c57e3e351a4512b8e105f4331d9c1ee3fc30b2ed25242525b1d62d"
-
-[[files]]
-file = "config/creeper_firework-common-1.toml.bak"
-hash = "9ae726313a0a365b757fb35a1d5b9b2734f3d14aabf2c93044156787a790d36c"
-
-[[files]]
-file = "config/creeper_firework-common-2.toml.bak"
-hash = "d4b44c0b9cb83e46882e75ac7e98039077d4da7707d2997421ef5518fa7478c9"
 
 [[files]]
 file = "config/creeper_firework-common.toml"
@@ -1099,22 +1075,6 @@ hash = "40766e0ff4e9cd09f0f3786c81d3081320431ad2dcff21f7f6fe65a28d7bef52"
 [[files]]
 file = "config/defaultoptions-common.toml"
 hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "77ab339ba50afdb2594d08e0980f12e32a8b1f291270a6219a0fb7ef03cc48de"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "dc753fe204a0b4816b0fa61e52b91a0baa1b0dc70c5d2a994096480e907e3121"
-
-[[files]]
-file = "config/defaultoptions/optionsof.txt"
-hash = "d6fc172d20c4f6bcb03233477a5640cfae4e96764157d287741a44cedcba40f1"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "2f520057c3ae240467e42de58336468fd24fe29287b972d9ca87041356ee5d09"
 
 [[files]]
 file = "config/delightful-common.toml"
@@ -1173,10 +1133,6 @@ file = "config/extendedgears-client.toml"
 hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
-file = "config/extendedgears-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/extendedgears-common.toml"
 hash = "a39fd38c51b9d75104651c8a6706f99f20632a21bf00226f330ab7ca3c891f9b"
 
@@ -1195,10 +1151,6 @@ hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 [[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
-
-[[files]]
-file = "config/farmersdelight-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -1555,10 +1507,6 @@ hash = "d4a0aedb7b14086ee94fa0c03bc38e5f9994c8da1e052100ad9c7f44578b7ed9"
 [[files]]
 file = "config/rare-ice.properties"
 hash = "3608cb6a5d0471a40f3443082f1228c33c6e45cd130eb0a2eab477f3cb72918f"
-
-[[files]]
-file = "config/redstonevillager-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/redstonevillager-common.toml"
@@ -2873,13 +2821,8 @@ hash = "70be6dfc944a7eda4f870c7ec8185e0ad03feeb2df2bdc640f6fed0b82c359bb"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
+file = "mods/defaultsettings.pw.toml"
+hash = "551297d8dad5b6cefabf5eb8bf3383d650227b2f3d965e96b3c0c252a023dbbd"
 metafile = true
 
 [[files]]
@@ -3575,6 +3518,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
+metafile = true
+
+[[files]]
+file = "mods/jcplugin.pw.toml"
+hash = "5c9deb013e842d42103c2b9d723a91e890648a400831a25a554f2d65d83b778f"
 metafile = true
 
 [[files]]
@@ -5194,10 +5142,6 @@ metafile = true
 file = "resourcepacks/eureka-create-airships.pw.toml"
 hash = "223d3e8fafb2ecbff94261b8ff4bbf9c9c820b9295cf7da56f2a11761820a72a"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "55ba6e06075a08e1677f98aadcd5090999b704647c1d07434da10c68f584b5c7"
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.02.zip"

@@ -55,6 +55,9 @@ Misc:
 - Dragon Mounts: Legacy
 - Doggy Talents
 
+Replaced:
+- Swapped Default Options for DefaultSettings
+
 ## 1.1 - Magic, Decorations, and QOL Update
 
 **Added**
