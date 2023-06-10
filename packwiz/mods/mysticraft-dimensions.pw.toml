@@ -1,0 +1,13 @@
+name = "Mysticraft Dimensions"
+filename = "Mysticraft 1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af682508d38031818942703765d14f6175a0e652"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856429
+project-id = 632511

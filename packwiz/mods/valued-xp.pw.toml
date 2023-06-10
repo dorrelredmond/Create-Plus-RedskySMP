@@ -1,0 +1,13 @@
+name = "Valued XP"
+filename = "ValuedXP(FORGE1.18.2)v1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8aba73006388a3f0cc3832dd1675f13acd3f49f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3798502
+project-id = 621530

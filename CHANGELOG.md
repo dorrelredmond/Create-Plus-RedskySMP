@@ -24,17 +24,36 @@ Tech:
 - ExtraStorage
 - CC: Tweaked
 - Advanced Peripherals
+- CC:C Bridge
 
 Dimensions:
 
-- Ad Astra
+- Beyond Earth
 - Blue Skies
 - Mysticraft Dimensions
 - The Twilight Forest
 
-Decorations:
+Magic:
+
+- Psi
+- Blood Magic
+- Botania
+- Mystical Agriculture
+- Mystical Aggraditions
+- Mystical Customization
+
+Misc:
 
 - Re-Chiseled
+- When Dungeons Arise
+- Wall-Jump
+- Bonsai Trees 3
+- Ore Tree: Reborn
+- Omnipotent Card
+- Tarot Cards
+- Valued XP
+- Dragon Mounts: Legacy
+- Doggy Talents
 
 ## 1.1 - Magic, Decorations, and QOL Update
 

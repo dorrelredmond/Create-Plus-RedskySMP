@@ -1,0 +1,13 @@
+name = "Omnipotent Card"
+filename = "omni_card-1.18.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "814933a474e81b18f39ce13dcaef68b24566312b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4436585
+project-id = 552200
