@@ -1,12 +1,12 @@
-name = "RedskySMP"
+name = "Create Plus RedskySMP"
 author = "DorrelRedmond"
-version = "1.1"
+version = "1.2-beta.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ab98c99003ef98ea71f0b30f99f67fed46970a568166ae78911baef14a3b80f2"
+hash = "c563e65c216aa4d377b3d9834b532fcffd1a52b5a1aefc0ab3765de5b0279f71"
 
 [versions]
 forge = "40.2.0"
