@@ -1,0 +1,13 @@
+name = "Twilight Delight"
+filename = "TwilightDelight-1.18.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c7afe357ac634f611a1fe3bfcc90ca67562d775"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848595
+project-id = 637200

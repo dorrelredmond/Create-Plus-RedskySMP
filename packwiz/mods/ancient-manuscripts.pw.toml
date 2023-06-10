@@ -1,13 +1,13 @@
 name = "Ancient Manuscripts"
-filename = "ancient_manuscripts-1.0.5-1.18.2.jar"
+filename = "ancient_manuscripts-1.1.2-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "35113c56835082c22c78d23abdae07fbbd667ed7"
+hash = "79d4c34cce65c987fd6bd0b4f0e69457dde32583"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4319214
+file-id = 4481223
 project-id = 677117

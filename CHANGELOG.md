@@ -1,13 +1,12 @@
 # CreatePlus RedskySMP Changelog
 This is the changelog for the Forge modpack [Create Plus RedskySMP](https://legacy.curseforge.com/minecraft/modpacks/create-redskysmp).
 
-## 1.2-beta.1
+## 2.0-beta.1
 
 **Added:**
 
 Tech:
 
-- Alchemistry
 - Valkyrien Skies
 - Eureka! Airships!
 - Eureka! Create Airships!
@@ -23,8 +22,6 @@ Tech:
 - Extra Disks
 - ExtraStorage
 - CC: Tweaked
-- Advanced Peripherals
-- CC:C Bridge
 
 Dimensions:
 
@@ -32,6 +29,8 @@ Dimensions:
 - Blue Skies
 - Mysticraft Dimensions
 - The Twilight Forest
+- Twilight Decor
+- Twilight Delight
 
 Magic:
 
@@ -44,7 +43,6 @@ Magic:
 
 Misc:
 
-- Re-Chiseled
 - When Dungeons Arise
 - Wall-Jump
 - Bonsai Trees 3
@@ -54,6 +52,9 @@ Misc:
 - Valued XP
 - Dragon Mounts: Legacy
 - Doggy Talents
+- ReAuth
+- ImmediatelyFast Reforged (Unofficial)
+- ModernFix
 
 Replaced:
 - Swapped Default Options for DefaultSettings
@@ -61,6 +62,9 @@ Replaced:
 Removed:
 - FiveHead
 - Recall Potion
+
+Updated:
+- Ancient Manuscripts
 
 ## 1.1 - Magic, Decorations, and QOL Update
 

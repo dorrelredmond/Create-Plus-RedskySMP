@@ -5,6 +5,70 @@ file = "background.png"
 hash = "a1727d1c9e963714b02e1263abbe7a7da2868ef5a3122669734d575b17a95bef"
 
 [[files]]
+file = "config/charms.toml"
+hash = "b10dd2054a75a8984019b6e4ec811be989429af39a75b87604e6edd6fc8c35c4"
+
+[[files]]
+file = "config/kawaii-dishes-common.toml"
+hash = "a90d4341b9090a62f44aa2af0c36f40b1e1a09010b6fc8bd14b9e3ddfa215041"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "58a83a8959d6316e7a67a041b39a88797657fb96ab8c0b289b5c70134eec883e"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/Create Recipes+ (1.3).zip"
+hash = "a99e799ac12af61c53a7631be21170e0334bcb0c729055d6971591b1035e67ae"
+
+[[files]]
+file = "config/paxi/datapacks/Create+Airship+Recipes+1.0.zip"
+hash = "30bc09ee11e56a066c68b78b843b4858fe0ecd57272e3b0066489789dab431a7"
+
+[[files]]
+file = "config/paxi/datapacks/SilkTouchableCannons.zip"
+hash = "1ebb1283484f7092abd2cd013d3beb127a9249b7deb4c75ef00d8a6fe19dfa40"
+
+[[files]]
+file = "config/paxi/datapacks/VanillaTweaks_c197238.zip"
+hash = "ac0c60c0f6dc9c6b10cdc2ad35dd873447a72f199b75c365f293cfbc2178f8a2"
+
+[[files]]
+file = "config/paxi/datapacks/VanillaTweaks_c270432.zip"
+hash = "b707ffc35228dab2af53755682ea361277dfff34511a2f1d9b4de97b73933764"
+
+[[files]]
+file = "config/paxi/datapacks/anti enderman grief v1.1.3.zip"
+hash = "ef160b08939bc0621ac57fd05436329598d7a23bc2fe839767ee2f0c0826508e"
+
+[[files]]
+file = "config/paxi/datapacks/nether portal coords v1.1.3.zip"
+hash = "a8aec5367501d3730f613bd5e5bdaa39666cbe933079513d3bf53b7e6feadbce"
+
+[[files]]
+file = "config/paxi/datapacks/silence mobs v1.1.3.zip"
+hash = "1c3df6fb8752b3ab1e234029333eb127110a255fb01bae7494f03317764bca7e"
+
+[[files]]
+file = "config/paxi/datapacks/unlock all recipes v2.0.4.zip"
+hash = "798df93f084c25c819e03853689572a8331ca5303bd329d6285d166aef67b5a1"
+
+[[files]]
+file = "config/paxi/datapacks/wandering trades v1.6.0.zip"
+hash = "f56b7f5a30854237cb7739ce9a44bb388e6d52515929decd7e4f22ce6ab7eeab"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/Eureka+Create+1.0.zip"
+hash = "782745e07d612cb285e0071ebb8ee9954bfb1879b8fde3998d9a2225a0cad097"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "2a8c845741ba099fac676a08bca3cee733d2c2ce48220fdf2854eceff862464e"
 
@@ -32,11 +96,6 @@ hash = "4f7366b611ce75f262c61391850eff4b5a300edc9daad9dd8f18cffa22f22a91"
 metafile = true
 
 [[files]]
-file = "mods/advanced-peripherals.pw.toml"
-hash = "39b33a34b4d819e55e18c7e0497e5d31fa1f0543f66f277f407424d77e99663c"
-metafile = true
-
-[[files]]
 file = "mods/advanced-shulkerboxes.pw.toml"
 hash = "626e114e02d68d71c58b65bf2190b715ad3eb741ed343a61155eda0bcaccd5a0"
 metafile = true
@@ -47,18 +106,13 @@ hash = "f262def31be40fb088534eb49a06804ee010f53dd31878c876310241471ef1d0"
 metafile = true
 
 [[files]]
-file = "mods/alchemistry.pw.toml"
-hash = "8c06bb40b1d2e836f5dfd7d1c96fb573e44227e037cf10104da7a8b0a31ed574"
-metafile = true
-
-[[files]]
 file = "mods/allurement.pw.toml"
 hash = "2286bbe14330bfce04eacac77cab4c613b98e954ecc20c9d831da7b9636eb6b0"
 metafile = true
 
 [[files]]
 file = "mods/ancient-manuscripts.pw.toml"
-hash = "2f718048ecd41df743e07a9767f21eb01b2bc345b62c5333da6e41fe62989a75"
+hash = "2e71e20a0036af0c125d251333168f46e8dd624d3d85a2d8a8c6880747cc995b"
 metafile = true
 
 [[files]]
@@ -183,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
-hash = "3644086e67102ae4fed30e65e421e5eee630865b1904cad95e479eca5c8b684a"
+hash = "17067d5514976101943f1105735bb3fde18fefcb8980cd6378491e5bf7613181"
 metafile = true
 
 [[files]]
@@ -297,11 +351,6 @@ hash = "ce2aa209b10a5ca89af90a5cb67292117dee46165dab91538d543782c49dace3"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
-metafile = true
-
-[[files]]
 file = "mods/chalk.pw.toml"
 hash = "07a800877864467a64e69d081389170bcccd5eda5eee0efdb159b94d2808f1ff"
 metafile = true
@@ -388,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/config-menus-forge.pw.toml"
-hash = "a0ffeb0594fe461bb2ea048477484990875c47ee682009528c5b7eb50a830fc7"
+hash = "e3e760083a637df661d976e4d7ad986074b0e2f624e03414f236ddc18bb455e9"
 metafile = true
 
 [[files]]
@@ -584,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/decoration-delight.pw.toml"
 hash = "70be6dfc944a7eda4f870c7ec8185e0ad03feeb2df2bdc640f6fed0b82c359bb"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
 
 [[files]]
@@ -853,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+hash = "033700fa51fb98739997b4f961b401202ecf83f565883a9a461368d0547c2e53"
 metafile = true
 
 [[files]]
@@ -909,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "276fb77b093f87f45c5dcee251b3bee680f7a386692c7a3afea7547d2cce66a3"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-reforged.pw.toml"
+hash = "0f311023eb27ca6573f7caab2281ecc817dea74f438d3c5042a7e334513bfd7a"
 metafile = true
 
 [[files]]
@@ -1102,6 +1161,11 @@ hash = "4128d66e93a862e26e3887ad2edd59c9f418908ad0f57c032f419a80542cd361"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a80d9fbb30dc8a4995ec42d9173d2689ac2940da5859f613136b0b465a623146"
+metafile = true
+
+[[files]]
 file = "mods/mooshroom-tweaks.pw.toml"
 hash = "96583f842f18d88dcfd110edab3696442a75c545bc9cb7d21ed1aa1217d37fa6"
 metafile = true
@@ -1162,11 +1226,6 @@ hash = "ab93a41957062727b2574691ad276d0e412f0683e68dee40bd4336ed3311d184"
 metafile = true
 
 [[files]]
-file = "mods/mysticraft-dimensions.pw.toml"
-hash = "d55e82385bec024ed6f0c2375339d7ea2bea30e1037b13222fc41a51636b5ae4"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -1209,11 +1268,6 @@ metafile = true
 [[files]]
 file = "mods/no-additional-repair-cost.pw.toml"
 hash = "a2fc207a4c5fbe7c40caa99573c52e94169fe9eacb1507e1e4bead5880c1094b"
-metafile = true
-
-[[files]]
-file = "mods/nock-enough-arrows.pw.toml"
-hash = "f487decb2046129b9229d91b09d8145e274e211a6352395b26898df150a7f6c7"
 metafile = true
 
 [[files]]
@@ -1367,13 +1421,13 @@ hash = "8fb952dda2c490a4bd322f9f971bee85c23f24768f395002d31892263c67982c"
 metafile = true
 
 [[files]]
-file = "mods/rebornstorage.pw.toml"
-hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
+file = "mods/reauth.pw.toml"
+hash = "ddd9b4bd28d0c422945e0e74bb1137920b6c44bf911c74f97f4731ac3b981227"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "048cd01fd3fb0627b8bc4cd777a5aff2bdcd979eb579e58d7e2a02c6f15a19f0"
+file = "mods/rebornstorage.pw.toml"
+hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
 metafile = true
 
 [[files]]
@@ -1583,7 +1637,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "6fd616d92b316e0bac6a6ea0ec1e181e6b7f3ff3c79541222f1f3e5fe002e895"
+hash = "90d3f1e87c6e206a996910691e9f016d9c4ecdbaebebfcd76bb251498d221c3c"
 metafile = true
 
 [[files]]
@@ -1674,6 +1728,16 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "3bb9568cd79dabd28aec5d2c9204b78cfe51afbde5b3a0cce1d5d0bb09231c13"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "4e3661b2caf0dabc7e94f0071fcce7f8866a3c64d77b1f64a67dde18bd0a66c1"
+metafile = true
+
+[[files]]
+file = "mods/twilightdecor.pw.toml"
+hash = "281282314365f05289c0f0c7daff3f13b4263774e68ba30238c27bff5a30a3c6"
 metafile = true
 
 [[files]]
@@ -1813,16 +1877,6 @@ hash = "a09b843e118ac98a5b0f57e84441b7f90634f60ca6335e03a476cce4e8a78e3a"
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/eureka-create-airships-datapack.pw.toml"
-hash = "da4939c4bf77f0edb08c1a556c60481d04de742d5e6f0cafe6882965ad3d5d93"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka-create-airships.pw.toml"
-hash = "223d3e8fafb2ecbff94261b8ff4bbf9c9c820b9295cf7da56f2a11761820a72a"
-metafile = true
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.02.zip"
