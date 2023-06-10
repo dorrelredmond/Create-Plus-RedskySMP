@@ -1,3 +1,11 @@
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.tar.gz
+*.exe
+
 # Exclude exported CurseForge zip files
 *.zip
 
