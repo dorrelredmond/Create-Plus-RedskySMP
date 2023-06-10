@@ -7,7 +7,7 @@
 *.exe
 
 # Exclude exported CurseForge zip files
-*.zip
+RedskySMP*.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
