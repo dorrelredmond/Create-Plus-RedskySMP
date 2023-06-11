@@ -1300,11 +1300,6 @@ hash = "c44bfa45702ac9395dbf6feedeaedb2657040e22a263ed00c3d75b85c7229736"
 metafile = true
 
 [[files]]
-file = "mods/mystical-customization.pw.toml"
-hash = "ab93a41957062727b2574691ad276d0e412f0683e68dee40bd4336ed3311d184"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -1956,6 +1951,10 @@ hash = "a09b843e118ac98a5b0f57e84441b7f90634f60ca6335e03a476cce4e8a78e3a"
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "scripts/doggyTalents/dogBed.zs"
+hash = "2df6ef10375a258e2712cc77cb0432ef2fb520929276eaf5097863572f1836e3"
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.02.zip"

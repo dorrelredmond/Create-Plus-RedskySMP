@@ -1,7 +1,7 @@
 
 ["Common Configs for Kawaii Dishes"]
 	#Define if the Kawaii Effect can send messages to the local player
-	canSendMessage = true
+	canSendMessage = false
 	#Should the mobs spawn with the maid dresses
 	shouldSpawn = true
 	#Sets the chance for mobs to spawn with maid dresses

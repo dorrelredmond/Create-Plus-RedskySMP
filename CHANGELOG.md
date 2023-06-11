@@ -1,6 +1,15 @@
 # CreatePlus RedskySMP Changelog
 This is the changelog for the Forge modpack [Create Plus RedskySMP](https://legacy.curseforge.com/minecraft/modpacks/create-redskysmp).
 
+## 2.0-beta.2
+
+**Added:**
+- Mysticraft Dimensions
+
+**Removed**
+
+- Mystical Customization
+
 ## 2.0-beta.1
 
 **Added:**
@@ -27,7 +36,6 @@ Dimensions:
 
 - Beyond Earth
 - Blue Skies
-- Mysticraft Dimensions
 - The Twilight Forest
 - Twilight Decor
 - Twilight Delight
@@ -39,7 +47,8 @@ Magic:
 - Botania
 - Mystical Agriculture
 - Mystical Aggraditions
-- Mystical Customization
+- CraftTweaker
+- JEITweaker
 
 Misc:
 
@@ -56,14 +65,17 @@ Misc:
 - ImmediatelyFast Reforged (Unofficial)
 - ModernFix
 
-Replaced:
+**Replaced:**
+
 - Swapped Default Options for DefaultSettings
 
-Removed:
+**Removed:**
+
 - FiveHead
 - Recall Potion
 
-Updated:
+**Updated:**
+
 - Ancient Manuscripts
 
 ## 1.1 - Magic, Decorations, and QOL Update

@@ -1,5 +1,5 @@
 
 [logbegone]
 	regex = ["Disconnecting VANILLA connection attempt", "Channels "]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Skipping Entity with ID"]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Skipping Entity with ID", "Tried to fill a block with a not loggable fluid!"]
 
