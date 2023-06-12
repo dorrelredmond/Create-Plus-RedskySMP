@@ -1,6 +1,8 @@
 # RedskySMP
 > Create Plus RedskySMP Modpack and Server Pack Files
 
+[![wakatime](https://wakatime.com/badge/user/18482c5d-8ba6-4eeb-83e4-ac05a26a0409/project/2c787687-a20a-4208-84aa-d1fd20540c1c.svg)](https://wakatime.com/badge/user/18482c5d-8ba6-4eeb-83e4-ac05a26a0409/project/2c787687-a20a-4208-84aa-d1fd20540c1c)
+
 This is a larger modpack, but should still feel fairly lightweight, thanks to various optimization mods, such as Rubidium (an unofficial Forge port of Sodium) and Starlight (for the lighting engine).
 The pack primarily focuses on The Create Mod and a variety of Create-based addons while implementing some Quality of Life and Vanillla Enhancements through projects such as Mouse Tweaks or Yung's Better Dungeons.
 The modpack also allows for a lot of customization using mods like Tetra, Sophisticated Backpacks, Supplementaries, and of course the Create mod itself.
